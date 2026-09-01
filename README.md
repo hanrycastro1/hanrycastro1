@@ -1,11 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hanry%20Castro&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=hanrycastro1">
-    
-  </a>
-</p>
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/hanrycastro1">
@@ -16,6 +8,14 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=hanrycastro1&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hanry Castro's GitHub Trophies" />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hanry%20Castro&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=hanrycastro1">
+    
+  </a>
+</p>
+
 
 
 ## 🛠️ Languages & Tools
