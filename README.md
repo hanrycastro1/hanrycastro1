@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hanry%20Castro&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
-## 📊 GitHub Stats & Trophies
+ 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/hanrycastro1">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanrycastro1&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="hanrycastro1's GitHub Stats" />
@@ -18,7 +18,7 @@
 
 
 
-## 🛠️ Languages & Tools
+ 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -64,7 +64,7 @@
 </p>
 
 
-## 🔗 Connect with Me
+ 🔗 Connect with Me
 <p align="center">
   <a href="https://x.com/HanryCastro2"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Hanry Castro's Twitter"/></a>&nbsp;&nbsp;
   <a href="mailto:hanrysilveiracastro@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Hanry Castro's Email"/></a>
